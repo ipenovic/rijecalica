@@ -1,0 +1,27 @@
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\bin\Debug\Rijecalica.exe.config
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\bin\Debug\Rijecalica.exe
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\bin\Debug\Rijecalica.pdb
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\obj\Debug\Rijecalica.csprojResolveAssemblyReference.cache
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\obj\Debug\Rijecalica.Form1.resources
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\obj\Debug\Rijecalica.Properties.Resources.resources
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\obj\Debug\Rijecalica.csproj.GenerateResource.Cache
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\obj\Debug\Rijecalica.exe
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\Rijecalica\Rijecalica\obj\Debug\Rijecalica.pdb
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\bin\Debug\Rijecalica.exe.config
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.exe
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.pdb
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\bin\Debug\Rijecalica.exe
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\bin\Debug\Rijecalica.pdb
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.csprojResolveAssemblyReference.cache
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.Form1.resources
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.Properties.Resources.resources
+C:\Users\Ivan.DESKTOP-0A95LAU\Desktop\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.csproj.GenerateResource.Cache
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\bin\Debug\Rijecalica.exe.config
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.exe
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.pdb
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\bin\Debug\Rijecalica.exe
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\bin\Debug\Rijecalica.pdb
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.csprojResolveAssemblyReference.cache
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.Form1.resources
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.Properties.Resources.resources
+D:\Ivan\Documents\Fakultet\01 semestar\Upravljanje znanjem u razvoju programske podrške\Riječalica - projekt\[winform] Rijecalica\Rijecalica\obj\Debug\Rijecalica.csproj.GenerateResource.Cache
